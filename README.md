@@ -120,6 +120,8 @@ delid
 ```
 sns.boxplot(x='sepal_width',data=delid)
 ```
+![image](https://github.com/user-attachments/assets/9ffe1c53-6089-4754-a121-b5816c828975)
+
 
 ## Z-Score
 ```
